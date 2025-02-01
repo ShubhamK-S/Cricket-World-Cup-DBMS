@@ -18,6 +18,7 @@ This project is a web application designed to manage and analyze cricket statist
 
 - Python 3.x
 - MySQL Server
+- MySQL Connector 8.3.0
 
 >Update the config.py file with your database configuration
 >
